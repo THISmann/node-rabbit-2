@@ -25,7 +25,12 @@
 
 <img width="484" alt="Screenshot 2023-08-05 at 08 29 43" src="https://github.com/THISmann/node-rabbit-2/assets/36563272/dbec2ba3-2de9-455a-8fa4-8a7aee34b87e"> 
 
+# open rabbitMq
+
+``http://localhost:15672``
+
 <img width="1426" alt="Screenshot 2023-08-05 at 08 36 52" src="https://github.com/THISmann/node-rabbit-2/assets/36563272/5f4fdab7-ee82-4a7e-a5d5-5a82f6125c89">
+
 
 <img width="1674" alt="Screenshot 2023-08-05 at 08 37 17" src="https://github.com/THISmann/node-rabbit-2/assets/36563272/ba30407d-df41-41ac-8f82-a589fb72010f">
 
