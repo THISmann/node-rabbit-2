@@ -5,10 +5,10 @@
 ``git clone https://github.com/THISmann/node-rabbit-2``
 
 #start the rabbitmq-receiver service
-``cd node-rabbitmq-receiver``;
-``npm install``;
-``npm start``;
-``cd ..``;
+``cd node-rabbitmq-receiver``
+``npm install``
+``npm start``
+``cd ..``
 
 #start the rabbitmq-sender service
 ``cd node-rabbitmq-sender``
@@ -24,6 +24,12 @@
 ``sudo CONF_ENV_FILE="/opt/homebrew/etc/rabbitmq/rabbitmq-env.conf" /opt/homebrew/opt/rabbitmq/sbin/rabbitmq-server``
 
 <img width="484" alt="Screenshot 2023-08-05 at 08 29 43" src="https://github.com/THISmann/node-rabbit-2/assets/36563272/dbec2ba3-2de9-455a-8fa4-8a7aee34b87e">
+
+<img width="1643" alt="Screenshot 2023-08-05 at 08 36 28" src="https://github.com/THISmann/node-rabbit-2/assets/36563272/72629d68-6408-4948-97db-b89d2054b005">
+
+<img width="1643" alt="Screenshot 2023-08-05 at 08 36 28" src="https://github.com/THISmann/node-rabbit-2/assets/36563272/9634a4da-dbb0-42e9-90fa-ce7a1ec2f48e">
+
+
 
 
 #open postmann postmann 
