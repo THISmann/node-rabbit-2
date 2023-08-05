@@ -1,0 +1,3 @@
+{"level":"info","logType":"Info","message":"bonjour","service":"user-service","timeStamp":"2023/08/04:06:20:21"}
+//--
+{"level":"info","logType":"Info","message":"bonjour !!!","service":"user-service","timeStamp":"2023/08/04:08:56:36"}
